@@ -1,0 +1,42 @@
+.nav{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 20px 40px;
+        background-color: whitesmoke;
+}
+
+.navulli{
+    display: inline-flex;
+    padding: 0px;
+    list-style-type: none;
+}
+
+.navullia{
+    color: black;
+    /*color: #d3d3d3;*/
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+    padding: 10px 25px;
+}
+
+.navullia:hover{
+    color: #ba181b;
+    /*color: #93B1A6;*/
+    transform: scale(1.2);
+}
+
+.navh2{
+    color: black;
+    /*color: #d3d3d3;*/
+    font-size: 35px;
+    cursor: pointer;
+    letter-spacing: 1px;
+    margin: 0px;
+}
+
+.navspan{
+    color: #ba181b;
+    /*color: #93B1A6;*/
+}

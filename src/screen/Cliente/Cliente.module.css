@@ -1,0 +1,45 @@
+.img{
+    width: 1px;
+}
+
+.cardgp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 400px;
+    flex-wrap: wrap;
+}
+
+.card{
+    background-color: #ba181b;
+    height: 365px;
+    width: 300px;
+    border: 20px;
+    border-radius: 20px;
+    margin: 30px;
+    top: 25%;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+
+.p{
+    color: #FFF;
+    font-size: 16px;
+    line-height: 27px;
+    margin-bottom: 25px;
+    padding: 0 5px;
+}
+
+.h5{
+    color: #FFF;
+    font-size: 23px;
+    margin-bottom: 15px;
+}
+
+.img{
+    font-size: 100px;
+    display: block;
+    text-align: center;
+    margin: 25px 0px;
+}

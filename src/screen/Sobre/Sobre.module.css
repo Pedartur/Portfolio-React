@@ -1,0 +1,53 @@
+.pag{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.corp{
+    display: flex;
+    padding: 20px 40px;
+    justify-content: space-between;
+}
+
+.img{
+    display: flex;
+    top: 45%;
+    left: 10%;
+    padding-left: 70px;
+    width: 400px;
+    border-radius: 20%;
+}
+
+.h2{
+    color: black;
+    font-size: 35px;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+}
+
+.h5{
+    color: black;
+    font-size: 45px;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+
+.span{
+    color: #ba181b;
+}
+
+.p{
+    color: black;
+    width: 700px;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 15px;
+    margin-bottom: 45px;
+}
+
+.text{
+    flex-direction: column;
+}

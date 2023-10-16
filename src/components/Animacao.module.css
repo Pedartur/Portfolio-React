@@ -1,0 +1,9 @@
+.animacao{
+    display: flex;
+    top: 45%;
+    left: 10%;
+    padding-left: 100px;
+    width: 550px;
+    border-radius: 20%;
+    
+}
